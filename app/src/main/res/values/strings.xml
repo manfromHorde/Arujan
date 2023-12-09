@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Arujan</string>
+    <!-- C# -->
+    <string name="csharpIngredients">C#</string>
+    <string name="csharpDesc">C# — объектно-ориентированный язык программирования от Microsoft.
+        \nКлючевая особенность::</string>
+    <string-array name="key_features_csharp">
+        <item>Поддержка объектно-ориентированного программирования.</item>
+        <item>Используется в разработке приложений для платформы .NET.</item>
+        <item>Совместим с различными типами приложений, включая веб-приложения и игры.</item>
+    </string-array>
+
+    <!-- Java -->
+    <string name="javaIngredients">Java</string>
+    <string name="javaDesc">Java — многозадачный язык программирования, созданный компанией Sun Microsystems.
+        \nKey Features:</string>
+    <string-array name="key_features_java">
+        <item>Кросс-платформенность.</item>
+        <item>Обширная стандартная библиотека.</item>
+        <item>Поддержка многопоточности.</item>
+    </string-array>
+
+    <!-- Python -->
+    <string name="pythonIngredients">Python</string>
+    <string name="pythonDesc">Python — высокоуровневый язык программирования с динамической типизацией.
+        \nKey Features:</string>
+    <string-array name="key_features_python">
+        <item>Простой и читаемый синтаксис.</item>
+        <item>Многофункциональность.</item>
+        <item>Большое сообщество разработчиков.</item>
+    </string-array>
+
+    <!-- SQL -->
+    <string name="sqlIngredients">SQL</string>
+    <string name="sqlDesc">SQL — язык структурированных запросов для управления реляционными базами данных.
+        \nKey Features:</string>
+    <string-array name="key_features_sql">
+        <item>Запросы и манипуляции с данными в базах данных.</item>
+        <item>Создание и изменение схем баз данных.</item>
+        <item>Мощные средства фильтрации и сортировки данных.</item>
+    </string-array>
+
+    <!-- HTML/CSS -->
+    <string name="htmlcssIngredients">HTML/CSS</string>
+    <string name="htmlcssDesc">HTML/CSS — языки разметки и стилей для создания веб-страниц.
+        \nKey Features:</string>
+    <string-array name="key_features_htmlcss">
+        <item>HTML используется для структурирования содержимого веб-страницы.</item>
+        <item>CSS применяется для стилизации и внешнего оформления.</item>
+        <item>Основные технологии для веб-разработки.</item>
+    </string-array>
+
+    <!-- Kotlin -->
+    <string name="kotlinIngredients">Kotlin</string>
+    <string name="kotlinDesc">Kotlin — статически типизированный язык программирования для платформы JVM.
+        \nKey Features:</string>
+    <string-array name="key_features_kotlin">
+        <item>Совместим с Java.</item>
+        <item>Поддержка функционального программирования.</item>
+        <item>Стремление к безопасности.</item>
+    </string-array>
+
+    <!-- jQuery -->
+    <string name="jqueryIngredients">jQuery</string>
+    <string name="jqueryDesc">jQuery — быстрая, маленькая и многозадачная библиотека JavaScript.
+        \nKey Features:</string>
+    <string-array name="key_features_jquery">
+        <item>Упрощенная работа с DOM.</item>
+        <item>Обработка событий и анимации.</item>
+        <item>Легкость в использовании.</item>
+    </string-array>
+
+    <!-- Rust -->
+    <string name="rustIngredients">Rust</string>
+    <string name="rustDesc">Rust — системный язык программирования с акцентом на безопасность и производительность.
+        \nKey Features:</string>
+    <string-array name="key_features_rust">
+        <item>Система безопасного управления памятью.</item>
+        <item>Отсутствие сборки мусора.</item>
+        <item>Поддержка параллельного выполнения кода.</item>
+    </string-array>
+
+    <!-- PHP -->
+    <string name="phpIngredients">PHP</string>
+    <string name="phpDesc">PHP — скриптовый язык программирования для веб-разработки.
+        \nKey Features:</string>
+    <string-array name="key_features_php">
+        <item>Встраивание в HTML.</item>
+        <item>Работа с базами данных.</item>
+        <item>Обработка форм и сессий.</item>
+    </string-array>
+
+    <!-- C++ -->
+    <string name="cppIngredients">C++</string>
+    <string name="cppDesc">C++ — язык программирования общего назначения.
+        \nKey Features:</string>
+    <string-array name="key_features_cpp">
+        <item>Объектно-ориентированное программирование.</item>
+        <item>Высокая производительность.</item>
+        <item>Множество библиотек и фреймворков.</item>
+    </string-array>
+
+    <!-- Android -->
+    <string name="androidIngredients">Android</string>
+    <string name="androidDesc">Android — операционная система для мобильных устройств.
+        \nKey Features:</string>
+    <string-array name="key_features_android">
+        <item>Открытая платформа.</item>
+        <item>Разработка мобильных приложений на Java и Kotlin.</item>
+        <item>Множество библиотек и API для разработки.</item>
+    </string-array>
+</resources>
